@@ -87,45 +87,45 @@ criaCartao(
     'foi seuqestrada por valentine'
 )
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'shadowhunter',
+    'o que e a clave?',
+    'A organização que governa os Shadowhunters.'
 )
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'shadowhunter',
+    'Quem são os Anjos na história?',
+    'Seres divinos que deram origem aos Shadowhunters.'
 )
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'shadowhunters',
+    'Quem é Hodge Starkweather?',
+    'Mentor de Clary e Alec na Instituição.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'shadowhunters',
+    'Qual é a importância do Códex?',
+    'é um livro que contém os ensinamentos dos Shadowhunters.'
 )
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'shadowhunters',
+    'O que é a marca de São Miguel?',
+    'Uma proteção contra demônios.'
 )
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'shadowhunters',
+    'Quem é Lilith?',
+    'Uma poderosa demoníaca que busca ressuscitar seu filho.    '
 )
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'shadowhunters',
+    'Qual é a relação entre Clary e Jocelyn?',
+    'Jocelyn é a mãe de Clary, que a manteve afastada do mundo dos Shadowhunters.'
 )
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'shadowhunters',
+    'O que acontece no final da primeira temporada?',
+    'Clary descobre mais sobre seu passado e seus poderes.'
 )
 criaCartao(
     'shadowhuters',
